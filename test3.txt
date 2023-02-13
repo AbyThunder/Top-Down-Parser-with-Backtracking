@@ -1,0 +1,9 @@
+#S ::= S
+#N ::= A|B|D|G|H
+#T ::= a|b|c|d|e
+S ::= A|Bce
+A ::= b|D
+D ::= c|B
+B ::= d|aG
+G ::= b|ed
+H ::= e

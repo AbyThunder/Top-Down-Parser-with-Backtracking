@@ -1,0 +1,6 @@
+#S ::= S
+#N ::= door|,
+#T ::= ala|23|cool|k[]
+S ::= doorala23,k[]alacool|$
+door ::= ala23,|coolk[]
+, ::= $|ala

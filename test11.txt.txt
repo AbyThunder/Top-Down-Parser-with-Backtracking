@@ -1,0 +1,6 @@
+S ::= S
+#N ::= A|B|S
+#T ::= a|b|c|d
+S ::= aA|$
+B ::= abB|cB
+B ::= $|d
